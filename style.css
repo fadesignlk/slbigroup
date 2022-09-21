@@ -10077,11 +10077,12 @@ footer .opening-hours li .closed {
 
 .about-style-five blockquote {
   font-size: 20px;
-  padding-right: 25%;
+  /* padding-right: 25%; */
   margin-bottom: 20px;
   line-height: 30px;
   border-left: 2px solid #009358;
   padding-left: 20px;
+  text-align: justify;
 }
 
 .about-style-five ul li {

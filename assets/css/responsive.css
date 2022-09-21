@@ -762,7 +762,7 @@
   }
 
   p.founder .name {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 700;
     display: block;
     line-height: 2;
@@ -770,7 +770,7 @@
 
   p.founder .designation,
   p.founder .company {
-    font-size: 18px;
+    font-size: 17px;
     display: block;
     line-height: 1.5;
   }
@@ -1324,7 +1324,7 @@
 
   .footer-bottom {
     text-align: center;
-    background: #092e5a;
+    background: #009358;
     padding-top: 30px;
   }
 
