@@ -279,8 +279,12 @@
     text-align: center;
   }
 
-  .clients-area.default-padding.bg-dark.text-light::after {
+  .clients-area.default-padding.bg-dark-custom.text-light::after {
     display: none;
+  }
+
+  .clients-area .left-info h2 {
+    color: #000;
   }
 
   .clients-area .clients-items {
@@ -1138,8 +1142,12 @@
     text-align: center;
   }
 
-  .clients-area.default-padding.bg-dark.text-light::after {
+  .clients-area.default-padding.bg-dark-custom.text-light::after {
     display: none;
+  }
+
+  .clients-area .left-info h2 {
+    color: #000;
   }
 
   .clients-area .clients-items {
@@ -1324,7 +1332,7 @@
 
   .footer-bottom {
     text-align: center;
-    background: #009358;
+    background: #0a5015;
     padding-top: 30px;
   }
 
