@@ -621,13 +621,13 @@ input {
 }
 
 .default-padding {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   position: relative;
 }
 
 .default-padding-top {
-  padding-top: 120px;
+  padding-top: 50px;
   position: relative;
 }
 
@@ -636,7 +636,7 @@ input {
 }
 
 .default-padding-bottom {
-  padding-bottom: 120px;
+  padding-bottom: 50px;
   position: relative;
 }
 
@@ -645,7 +645,7 @@ input {
 }
 
 .default-padding.bottom-less {
-  padding-top: 120px;
+  padding-top: 50px;
   padding-bottom: 90px;
 }
 
@@ -725,6 +725,10 @@ button:focus {
 
 .btn-md {
   padding: 15px 40px;
+}
+
+.btn-md-read-more {
+  padding: 10px 25px;
 }
 
 .btn-md.border {
@@ -5697,7 +5701,7 @@ ul.achivement li .medium {
 }
 
 .project-details-area .content .row {
-  margin-top: 50px;
+  margin-top: 0;
 }
 
 .project-details-area .content .row img {
@@ -8293,7 +8297,8 @@ footer .link ul li::after {
   content: "";
   border-top: 5px solid transparent;
   border-bottom: 5px solid transparent;
-  border-left: 6px solid #bcb3b3;
+  border-left: 6px solid #fff;
+  color: #fff;
 }
 
 footer .link ul li:last-child {
@@ -8306,7 +8311,7 @@ footer .link ul li a {
 }
 
 footer.bg-dark .link ul li a {
-  color: #cccccc;
+  color: #fff;
 }
 
 footer .link ul li a:hover {
