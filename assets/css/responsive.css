@@ -466,7 +466,7 @@
   }
 
   .project-details-area .content .row {
-    margin-top: 30px;
+    margin-top: 0;
   }
 
   .project-details-area .project-info .item {
@@ -1227,7 +1227,7 @@
   }
 
   .project-details-area .content .row {
-    margin-top: 30px;
+    margin-top: 0;
   }
 
   .project-details-area .content .row img {

@@ -1113,7 +1113,7 @@ a.more-btn:hover {
   padding: 0 10%;
 }
 
-.site-heading h2::before {
+/* .site-heading h2::before {
   background: #0a5015 none repeat scroll 0 0;
   bottom: 0;
   content: "";
@@ -1122,14 +1122,14 @@ a.more-btn:hover {
   margin-left: -25px;
   position: absolute;
   width: 40px;
-}
+} */
 
 .yellow .site-heading h2::before {
   background: #febc35 none repeat scroll 0 0;
   height: 3px;
 }
 
-.site-heading h2::after {
+/* .site-heading h2::after {
   background: #0a5015 none repeat scroll 0 0;
   bottom: 0;
   content: "";
@@ -1138,7 +1138,7 @@ a.more-btn:hover {
   margin-left: 20px;
   position: absolute;
   width: 5px;
-}
+} */
 
 .yellow .site-heading h2::after {
   background: #febc35 none repeat scroll 0 0;
