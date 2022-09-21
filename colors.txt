@@ -1,3 +1,0 @@
-00235a - blue
-0a5015 - dark green
-#009358 - login blue
