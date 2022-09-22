@@ -1489,6 +1489,9 @@
   .lanka {
     width: 250px;
   }
+  .team .ceo {
+    font-size: 14px;
+  }
 }
 
 @media only screen and (min-width: 500px) and (max-width: 767px) {
