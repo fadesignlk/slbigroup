@@ -1543,3 +1543,9 @@
     display: none;
   }
 }
+
+@media (max-width: 991px) {
+  div.founder-message h1 {
+    text-align: center;
+  }
+}
