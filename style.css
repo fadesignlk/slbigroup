@@ -440,10 +440,18 @@ input {
   display: flex;
   flex-direction: column-reverse;
 }
-/* 
-.card:hover .overlay {
-  opacity: 1;
-} */
+
+/* Team Grid Styles */
+
+.team .name {
+  color: #fff;
+}
+
+.team .designation {
+  display: block;
+  font-weight: normal;
+  margin-top: 12px;
+}
 
 .card .card-text {
   color: #fff;
