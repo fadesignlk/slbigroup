@@ -457,6 +457,11 @@ input {
   color: #fff;
 }
 
+/* .team-single .title .name {
+  font-size: 25px;
+  font-weight: bolder;
+} */
+
 .text-justify {
   text-align: justify;
 }
