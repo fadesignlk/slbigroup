@@ -467,9 +467,10 @@ input {
   text-align: justify;
 }
 
-a.read-more:hover {
+/* a.read-more:hover {
   color: #009358 !important;
-}
+  border-color: #009358;
+} */
 
 @media (min-width: 576px) {
   .container-medium {
@@ -728,7 +729,7 @@ button:focus {
   padding: 13px 25px;
 }
 
-.btn {
+/* .btn {
   display: inline-block;
   font-family: "Yantramanav", sans-serif;
   font-size: 14px;
@@ -744,7 +745,7 @@ button:focus {
   overflow: hidden;
   border-radius: inherit;
   border: none;
-}
+} */
 
 .btn.angle {
   position: relative;
@@ -1875,7 +1876,7 @@ body,
 }
 
 .banner-area .carousel-control.theme {
-  color: #0a5015;
+  /* color: #0a5015; */
 }
 
 .yellow .banner-area .carousel-control.theme {
