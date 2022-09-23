@@ -445,6 +445,7 @@ input {
 
 .team .name {
   color: #fff;
+  font-weight: bold;
 }
 
 .team .designation {
